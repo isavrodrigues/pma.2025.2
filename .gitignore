@@ -30,3 +30,5 @@ api/*
 jenkins/config
 
 .DS_Store
+
+api/*/k8s/postgres-config.yaml
